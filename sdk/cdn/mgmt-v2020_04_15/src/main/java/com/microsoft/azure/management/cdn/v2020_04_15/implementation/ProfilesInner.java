@@ -238,7 +238,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param resourceGroupName Name of the Resource group within the Azure subscription.
      * @throws IllegalArgumentException thrown if parameters fail the validation
@@ -257,7 +257,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param resourceGroupName Name of the Resource group within the Azure subscription.
      * @param serviceCallback the async ServiceCallback to handle successful and failed responses.
@@ -277,7 +277,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param resourceGroupName Name of the Resource group within the Azure subscription.
      * @throws IllegalArgumentException thrown if parameters fail the validation
@@ -294,7 +294,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param resourceGroupName Name of the Resource group within the Azure subscription.
      * @throws IllegalArgumentException thrown if parameters fail the validation
@@ -315,7 +315,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
     ServiceResponse<PageImpl<ProfileInner>> * @param resourceGroupName Name of the Resource group within the Azure subscription.
      * @throws IllegalArgumentException thrown if parameters fail the validation
@@ -1495,7 +1495,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param nextPageLink The NextLink from the previous successful call to List operation.
      * @throws IllegalArgumentException thrown if parameters fail the validation
@@ -1514,7 +1514,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param nextPageLink The NextLink from the previous successful call to List operation.
      * @param serviceFuture the ServiceFuture object tracking the Retrofit calls
@@ -1535,7 +1535,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param nextPageLink The NextLink from the previous successful call to List operation.
      * @throws IllegalArgumentException thrown if parameters fail the validation
@@ -1552,7 +1552,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
      * @param nextPageLink The NextLink from the previous successful call to List operation.
      * @throws IllegalArgumentException thrown if parameters fail the validation
@@ -1573,7 +1573,7 @@ public class ProfilesInner implements InnerSupportsGet<ProfileInner>, InnerSuppo
     }
 
     /**
-     * Lists all of the CDN profiles within a resource group.
+     * Lists all of the CDN profiles within a resource group. xx.
      *
     ServiceResponse<PageImpl<ProfileInner>> * @param nextPageLink The NextLink from the previous successful call to List operation.
      * @throws IllegalArgumentException thrown if parameters fail the validation
